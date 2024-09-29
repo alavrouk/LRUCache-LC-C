@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "Hashmap.C": "cpp",
+        "DoubleLinkedList.C": "cpp",
+        "Map.C": "cpp",
+        "LRUcache.C": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "string": "cpp",
+        "system_error": "cpp"
+    }
+}
